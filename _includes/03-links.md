@@ -1,1 +1,1 @@
-[Linkedin] (https://www.linkedin.com/in/mohamed-mehdi-gara-mmg/)
+![Linkedin](https://www.linkedin.com/in/mohamed-mehdi-gara-mmg/)
