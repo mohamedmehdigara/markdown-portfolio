@@ -1,3 +1,3 @@
-![Udacity]
-![Coursera]
-![DataCamp]
+- [Udacity]
+- [Coursera]
+- [DataCamp]
